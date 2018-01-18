@@ -1,2 +1,2 @@
 # hello-world
-first repository
+im here and have no idea whats going on
