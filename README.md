@@ -26,3 +26,6 @@ An AI team for a solo creator: strategy, scripts, clips, scheduling, analytics, 
 
 ## Safety defaults
 Nothing is posted, sent or deleted without the creator's approval.
+
+## Parked until connected
+`.claude/parked/` holds `publisher` (needs Metricool) and `clipper` (needs Restream/OpusClip). Move them back into `.claude/agents/` once those connectors are live.

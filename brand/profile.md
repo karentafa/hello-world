@@ -1,50 +1,68 @@
 # Brand Brain — every agent reads this first
 
-> Fill in the `TODO`s. The more specific you are, the less generic the output.
 > Agents may propose edits to this file; they never silently rewrite it.
+> Items marked TODO are still unknown. Don't guess them; ask.
 
 ## Who I am
-- Name / creator handle: Karen — TODO handle
-- Age range, country, language(s): TODO
-- Niche(s): TODO (e.g. reactions, vlogs, music, dance, streaming)
-- Personality (3 adjectives + what makes people stay): TODO
-- Look / style notes (body type, aesthetic, what I like wearing, what I won't wear): TODO
-- Things I will NOT do (topics, tactics, people): TODO
+- Name: Karen Tafa (search "Karen Tafa" for channels and music). Handles: TODO
+- Location: Los Angeles, US. Language: English.
+- Vision: become a **pop star who sings, dances and acts, and is followed for her personality.**
+- Everything I post should blend into one story: "she's an artist." Fashion, vlogs, fitness, streams and reactions are all chapters of the artist, not separate niches.
+- Personality: funny, outgoing, athletic, entertaining, relatable but fresh. Not trying to be "cool"; trying to be attention-grabbing and real.
+- Loves fashion, but is often too lazy to dress up. Outfit advice must be low-effort and high-impact.
+- Dances. Sings. Records her own music at home.
+- Things I will NOT do: TODO
 
 ## Audience
-- Target viewer (age, interests, where they hang out): TODO
-- Who I want to be compared to / adjacent creators: TODO
-- Competitors I watch (links): TODO
+- Teens to young adults, with the emphasis on teens through early 20s. Nobody over ~33. Goal: a **rabid, young, hip fan base**, relatable to slightly older viewers too.
+- Competitors / adjacent creators: TODO
 
-## Platforms
-| Platform | Handle | Followers | Priority (1-3) | Notes |
-|---|---|---|---|---|
-| YouTube | TODO | TODO | TODO | long + Shorts |
-| TikTok | TODO | TODO | TODO | |
-| Instagram | TODO | TODO | TODO | |
-| Twitch | TODO | TODO | TODO | live |
+## Platforms (as of 2026-10-25)
+| Platform | Account | Followers | Notes |
+|---|---|---|---|
+| YouTube | main reaction channel | ~42,000 | Audience came for reactions; some fans like her for her. Dormant/lost trust from inconsistency. Used to live stream here. |
+| YouTube | Karen Tafa 2 | ~1,000 | Vlogs only |
+| YouTube | Karen Tafa | ~4,000 | Unused for years, old vlogs |
+| TikTok | TODO | ~15K | Views swing wildly (200 to much more) |
+| Instagram | TODO | ~9K | Dormant, followers from an earlier popular period |
+| Twitch | TODO | TODO | Not started |
+- Top platform: undecided. Working hypothesis, to be tested with data: the 42K channel is the home base and gets transitioned gradually from reactions to artist-personality content; the 4K channel becomes a daily clips channel; Karen Tafa 2 is kept for vlogs/live or merged. Don't split effort three ways before consistency exists.
+- Needs a win: **consistency** first. Her biggest problem is lapsed trust, not lack of ideas.
 
 ## Music
-- Genre / influences: TODO
-- Released songs (links): TODO
+- Records at home. Genre/influences/released songs: TODO (pull from search once research tools are available)
 - Brand positioning in one sentence: TODO
-- Goals (streams, playlist adds, shows, collabs): TODO
 
-## Constraints
-- Job schedule: TODO (also read from calendar)
-- School schedule: TODO (also read from calendar)
-- Realistic hours per week for content: TODO
-- Hours/week for streaming: TODO
-- Gear (camera, mic, PC/phone, lighting): TODO
+## Gear
+- DJI Osmo Pocket 4 (Creator Kit with wireless mics), still learning it
+- iPhone 15 Pro (main), iPhone X (secondary: live chat view / IRL streams)
+- MacBook Pro (M2), two monitors
+- Audio interface, an "80-something" mic, a Blue mic, stand
+- Old camera: not used anymore
+
+## Constraints / real schedule
+- Work: 7am to 3pm, often 1-2 extra hours (leads a new team). Tired after; naps and eats first.
+- School: ~3 hours of assignments per week (about 2 real classes). Saturday all-day class the week of Nov 9.
+- Fitness classes: Mon / Wed / Fri 6-8pm, Sat 9am; pickleball Tuesday. Wants 3 classes a week (2 is OK). Thursday is the day to sacrifice for content; ask the strategist/chief-of-staff to pick which classes to keep each week.
+- Travel: Chicago the week of Nov 4 (exact travel dates TODO), conference Nov 4-5 (about 2 days off). Plan lighter content that week (pre-batched posts, phone-only content).
+- Sleep: 7-8 hours.
+- Best content time: weekends are most flexible, then weekday evenings when not in class.
 - Budget for tools per month: TODO
 
 ## Goals (next 90 days)
-- TODO (e.g. 1k YouTube subs, first 50 live viewers, 1 song release)
+- TODO confirm. Draft: re-establish consistency (3+ posts/week), reconnect with dormant fans, start live streaming weekly, post original music content weekly.
 
 ## Growth principles (don't change without asking)
-1. Small-channel strategy: pick topics where I can rank/surface now, not topics dominated by huge channels.
+1. Small-channel strategy: pick topics where I can surface now, not topics dominated by huge channels.
 2. Timing beats polish for news-cycle content (releases, drops): first few to post win.
-3. "Works but not overdone": prefer formats with proven demand and low saturation (use vidIQ outliers + keyword competition).
+3. "Works but not overdone": proven demand, low saturation.
 4. Each platform has its own rules. Never copy a YouTube strategy onto TikTok or Shorts.
-5. Understand WHY a video worked (topic, hook, format, name-drop, timing) before recommending a repeat.
-6. Attention tactics are fine; deception that harms viewers is not. No fake claims, no misleading medical/financial info, no impersonation.
+5. Understand WHY a video worked before recommending a repeat.
+6. Attention tactics are fine; deception that harms viewers is not.
+7. Match the effort to her energy: she is tired after work. Default to low-friction formats (phone, Osmo, batch on weekends).
+
+## Rhythm (agreed)
+- Sunday morning: weekly planning session (what I intend to do, what Karen must do, decisions needed).
+- Every morning and evening: daily plan, then an evening reflection (what got done, quick performance snapshot).
+- Weekly email review of content.
+- Phone alerts if a tool is available.
