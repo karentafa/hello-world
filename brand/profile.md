@@ -23,10 +23,11 @@
 | YouTube | KarenReacts (@KarenReacts) | ~44,300 | Audience came for reactions; some fans like her for her. Dormant/lost trust from inconsistency. Used to live stream here. |
 | YouTube | Karen Tafa Two (@karentafatwo) | ~1,150 | Vlogs only |
 | YouTube | Karen Tafa (@KarenTafa) | ~4,420 | Unused for years, old vlogs |
-| TikTok | old account TODO; **new TikTok being relaunched (Oct 2026)** | old ~15K | Views swing wildly (200 to much more) |
+| TikTok | karentafa2 (as stated, unverified) | ~15K, fluctuates | Views swing wildly (200 to much more) |
 | Instagram | TODO | ~9K | Dormant, followers from an earlier popular period |
 | Twitch | TODO | TODO | Not started |
-- Top platform: undecided. Working hypothesis, to be tested with data: the 42K channel is the home base and gets transitioned gradually from reactions to artist-personality content; the 4K channel becomes a daily clips channel; Karen Tafa 2 is kept for vlogs/live or merged. Don't split effort three ways before consistency exists.
+- DECIDED 2026-10-25: transition KarenReacts gradually into the artist home (no restart); use TikTok karentafa2. See plans/2026-10-25-karenreacts-transition.md.
+- (Older note, superseded:) Top platform: undecided. Working hypothesis, to be tested with data: the 42K channel is the home base and gets transitioned gradually from reactions to artist-personality content; the 4K channel becomes a daily clips channel; Karen Tafa 2 is kept for vlogs/live or merged. Don't split effort three ways before consistency exists.
 - Needs a win: **consistency** first. Her biggest problem is lapsed trust, not lack of ideas.
 
 ## Music

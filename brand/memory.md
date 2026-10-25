@@ -28,7 +28,7 @@ Full detail in docs/operating-mode.md. In short: she wants to be obsessed and go
 - Livestreaming: enjoys spontaneous interaction; "Cooking with Karen."
 
 ## Current creator priorities (Oct 2026)
-- Start or relaunch a **new TikTok**; post consistently; repurpose to YouTube Shorts.
+- TikTok: use existing account karentafa2 (decided 2026-10-25); post consistently; repurpose to YouTube Shorts.
 - Personality-led, conversational, funny, lifestyle content. Natural voice, strong openings, talking points not robotic scripts.
 - Learn the expensive camera she owns (DJI Osmo Pocket 4) and set up recording/streaming; return to livestreaming.
 - AI-assisted editing, CapCut workflows, scheduling, cross-platform publishing.
