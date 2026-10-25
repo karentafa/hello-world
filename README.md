@@ -1,31 +1,23 @@
-# Creator Agency (agent team)
+# Karen's creator agency (agent team)
 
-An AI team for a solo creator: strategy, scripts, clips, scheduling, analytics, live streaming, music/style management.
+An AI team for a solo creator: ideas, scripts, editing, clips, streaming, analytics, music/style management.
 
-## How it works
-- `brand/profile.md` is the shared brain. Fill it in first.
-- `.claude/agents/` holds one specialist per role:
-  `strategist`, `stream-producer`, `clipper`, `publisher`, `analyst`, `chief-of-staff`, `scriptwriter`, `talent-stylist`.
-- Outputs land in `plans/`, `streams/`, `clips/`, `scripts/`, `reports/`, `management/`.
-- Run via Claude Code, e.g. "strategist: plan this week" or "stream-producer: plan Friday's stream".
+## Start here
+- `CLAUDE.md` loads her memory and operating mode every session.
+- Entry point: the **director** agent. Rituals are slash commands:
+  `/daily-drop` · `/unstick` · `/evening` · `/sunday` · `/weekly-review` · `/release-radar` · `/stream-prep` · `/after-stream` · `/brain-dump`
 
-## Connectors
-| Need | Connector | Status |
-|---|---|---|
-| Calendar / email digest / files / tasks | Google Calendar, Gmail, Drive, Todoist | connected |
-| YouTube/TikTok/IG research + YouTube analytics | vidIQ | **connect** |
-| Scheduling + TikTok/IG analytics | Metricool | **connect** |
-| Multistream (YouTube + TikTok + Twitch), stream clips | Restream | **connect** |
-| Long video to short clips | OpusClip (optional) | optional |
-
-## Automation (recommended)
-- Monday: strategist weekly plan + chief-of-staff calendar blocks + emailed digest draft
-- Daily: timing-window check (releases/drops)
-- After each stream: clipper
-- Weekly: analyst report
+## Layout
+- `brand/memory.md`, `brand/profile.md`: who she is and the brand.
+- `docs/operating-mode.md`: how the system behaves (the most recent word on her wishes).
+- `.claude/agents/`: director, strategist, scriptwriter, editor, clipper, stream-producer, analyst, chief-of-staff, talent-stylist, team-builder.
+- `.claude/commands/`: the rituals above.
+- `.claude/parked/`: publisher (needs Metricool).
+- `docs/connectors.md`: tool map and gaps.
+- `automation/schedules.md`: scheduled runs (specs, not yet active).
+- `dashboard/`: `data.json` + `index.html` status view.
+- `guides/`, `templates/`: streaming-from-zero guide, shoot-card and run-of-show templates.
+- Outputs: `plans/`, `streams/`, `clips/`, `scripts/`, `reports/`, `team/`.
 
 ## Safety defaults
-Nothing is posted, sent or deleted without the creator's approval.
-
-## Parked until connected
-`.claude/parked/` holds `publisher` (needs Metricool) and `clipper` (needs Restream/OpusClip). Move them back into `.claude/agents/` once those connectors are live.
+Nothing is posted, emailed or deleted without her approval. Private by default.

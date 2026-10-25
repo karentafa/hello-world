@@ -51,7 +51,10 @@ Note: the main channel is **KarenReacts**, not "Karen Tafa". Its own description
 - Post Fri Oct 30 evening (Shorts, TikTok, Reels). Hashtags and caption per platform.
 - Caveats: results from vidIQ include some noisy/spammy channels; costume and music choices should avoid copyrighted audio issues (use platform-licensed sounds).
 
-## Next steps
-1. Connect your **main channel (KarenReacts)** to vidIQ with the Google account that owns it, to unlock retention and traffic data.
-2. Decide the channel plan: KarenReacts as home base; Karen Tafa (4.4K) as a clips channel; Karen Tafa Two (1.15K) for vlogs or merged later.
-3. First reaction-format experiment: **you + friends reacting to a live performance**, titled with "singer".
+## Next steps (revised after Karen's 2026-10-25 reflection)
+Karen does not want to be known for reactions. So the reaction data is used as **evidence of what her personality does to an audience**, not as a content plan:
+- The 25K/21K videos worked because of *her and her friends on camera* with live energy. Carry the "friends + personality + live performance" energy into singing, dancing and skits.
+- "Singer" in the title worked. Lead with singer/dancer/actor.
+1. Decide the YouTube plan: keep KarenReacts as a legacy/clips channel and launch an artist-first home, or transition KarenReacts gradually. (Open decision; both are viable.)
+2. Authorize vidIQ with the Google account that owns KarenReacts to unlock retention and traffic data.
+3. Use the 4.4K channel as a clips channel once clipping is running.

@@ -7,7 +7,7 @@
 - Name: Karen Tafa, 29, from Botswana, based in LA. Care Bears is her community nickname. Full background in brand/memory.md. TikTok/IG handles: TODO
 - Location: Los Angeles, US. Language: English.
 - Vision: become a **pop star who sings, dances and acts, and is followed for her personality.**
-- Everything I post should blend into one story: "she's an artist." Fashion, vlogs, fitness, streams and reactions are all chapters of the artist, not separate niches.
+- Everything I post should blend into one story: "she's an artist." **Not a reactor**: she does not want to be known for reactions (see docs/operating-mode.md). Fashion, vlogs, fitness, streams and reactions are all chapters of the artist, not separate niches.
 - Personality: funny, outgoing, athletic, entertaining, relatable but fresh. Not trying to be "cool"; trying to be attention-grabbing and real.
 - Loves fashion, but is often too lazy to dress up. Outfit advice must be low-effort and high-impact.
 - Dances. Sings. Records her own music at home.
@@ -59,9 +59,11 @@
 4. Each platform has its own rules. Never copy a YouTube strategy onto TikTok or Shorts.
 5. Understand WHY a video worked before recommending a repeat.
 6. Attention tactics are fine; deception that harms viewers is not.
-7. Match the effort to her energy: she is tired after work. Default to low-friction formats (phone, Osmo, batch on weekends).
+7. Remove friction, don't lower the bar. She is tired after work, so every idea is phone/Osmo-ready with zero decisions to start.
+8. Originality gate: if 50 other creators would make the same video, rework or kill it.
+9. Private by default; no announcing plans.
 
-## Rhythm (agreed)
+## Rhythm (rituals are slash commands; see automation/schedules.md)
 - Sunday morning: weekly planning session (what I intend to do, what Karen must do, decisions needed).
 - Every morning and evening: daily plan, then an evening reflection (what got done, quick performance snapshot).
 - Weekly email review of content.

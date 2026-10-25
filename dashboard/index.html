@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Karen HQ</title>
+<style>
+:root{--bg:#fff;--fg:#14141a;--mut:#6b6b78;--card:#f4f4f8;--acc:#d6246e}
+@media(prefers-color-scheme:dark){:root{--bg:#101014;--fg:#f2f2f6;--mut:#9a9aa8;--card:#1b1b22;--acc:#ff5fa2}}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.45 system-ui,sans-serif;padding:16px;max-width:760px;margin-inline:auto}
+h1{font-size:1.4rem}h2{font-size:.8rem;text-transform:uppercase;letter-spacing:.08em;color:var(--mut);margin:24px 0 8px}
+.card{background:var(--card);border-radius:12px;padding:12px 14px;margin:8px 0}
+.big{font-size:2rem;font-weight:700;color:var(--acc)}.row{display:flex;gap:12px}.row .card{flex:1}
+.mut{color:var(--mut);font-size:.85rem}
+</style></head><body>
+<h1>Karen HQ</h1><p class="mut" id="upd"></p>
+<div class="row"><div class="card"><div class="big" id="shipped">0</div><div class="mut">shipped</div></div>
+<div class="card"><div class="big" id="ready">0</div><div class="mut">ready to shoot</div></div>
+<div class="card"><div class="big" id="dec">0</div><div class="mut">decisions open</div></div></div>
+<h2>Ready to shoot</h2><div id="readyList"></div>
+<h2>Idea backlog</h2><div id="backlog"></div>
+<h2>Decisions needed</h2><div id="decisions"></div>
+<h2>Tools</h2><div class="card" id="tools"></div>
+<script>
+fetch('data.json').then(r=>r.json()).then(d=>{
+const $=id=>document.getElementById(id), li=(a,f)=>a.length?a.map(f).join(''):'<div class="card mut">Nothing yet</div>';
+$('upd').textContent='Updated '+d.updated;
+$('shipped').textContent=d.shipped.length;$('ready').textContent=d.readyToShoot.length;
+$('dec').textContent=d.decisions.filter(x=>x.status==='open').length;
+$('readyList').innerHTML=li(d.readyToShoot,x=>`<div class="card">${x.hook||x.idea||''}<div class="mut">${x.platform||''}</div></div>`);
+$('backlog').innerHTML=li(d.backlog,x=>`<div class="card">${x.idea}<div class="mut">${x.platform||''} ${x.postBy?'· post by '+x.postBy:''}</div></div>`);
+$('decisions').innerHTML=li(d.decisions.filter(x=>x.status==='open'),x=>`<div class="card">${x.q}</div>`);
+$('tools').innerHTML='Connected: '+d.connectors.connected.join(', ')+'<br><span class="mut">Missing: '+d.connectors.missing.join(', ')+'</span>';
+}).catch(()=>{document.body.insertAdjacentHTML('beforeend','<p class="mut">Open via a local server so data.json can load.</p>')});
+</script></body></html>

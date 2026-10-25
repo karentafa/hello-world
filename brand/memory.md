@@ -4,6 +4,9 @@ Source: Karen's own memory document, dated 2026-10-14. This is a historical star
 Rules: newer statements from Karen win. Label inferences. Don't treat plans as done. Check connected sources before reintroducing "open loops."
 Deliberately not stored here: immigration/visa details and health specifics. If relevant, Karen will say; never assume current status.
 
+## UPDATE 2026-10-25 (newer than everything below; wins on conflict)
+Full detail in docs/operating-mode.md. In short: she wants to be obsessed and go extraordinarily hard, not balanced; no soft reassurance or "be realistic"; she does NOT want to be known for reactions; she wants a team that does the work; she wants to stream but doesn't know where to start; she dislikes announcing plans. Where this section conflicts with "protect rest / don't fill every hour / reactions are proven" below, follow this section. Hard floors only: sleep 6h+, job and MBA deadlines, health.
+
 ## Who she is
 - 29, from Botswana, in the Los Angeles area since Feb 2024. Remote Senior Solutions Architect (Salesforce / marketing tech) plus an internal AI leadership role. Work is background, not her identity.
 - Degrees: BS and MS in Data Science; MBA expected to finish Dec 2026.
@@ -16,7 +19,7 @@ Deliberately not stored here: immigration/visa details and health specifics. If 
 - Serious aspiration: pop artist. Original music, 10,000+ streams across efforts.
 - Songs/working titles: Obsessed, 4more, Control, Hold Me Tight, Forever.
 - Style: emotional pop, personal experience, relationships, vulnerability, relatable storytelling.
-- Wants: consistent releases, anticipation-building, performing, fan community, music-related short-form, simple production. Don't postpone music just because work is busy.
+- Wants: consistent releases, anticipation-building, performing, fan community, music-related short-form, simple production. Don't postpone music just because work is busy. When she starts making music she can freeze ("no ideas"); give her a ready prompt.
 
 ## Content history (proven, not hypothetical)
 - YouTube reactions: about 40K subs (KarenReacts). Fast releases, up to 3 videos a day, live premieres. Community nickname: **Care Bears**. Lesson: speed, timing, consistency, simple workflow.
@@ -37,7 +40,7 @@ Deliberately not stored here: immigration/visa details and health specifics. If 
 - Never make her repeat a constraint. Incorporate corrections immediately.
 - Match intent: facts, brainstorming, recommendation, commitment, venting, execution. Don't turn every chat into a plan or framework. Concise unless asked for depth.
 - Give a clear next action. Keep outstanding items visible in one view: today / this week / later / done / under consideration.
-- Say when she is done for the day. Do not fill every free hour. Fun doesn't need a productivity justification.
+- Intensity is her call. Don't add rest or balance advice; enforce only the hard floors in docs/operating-mode.md.
 - Use tools she already has (Todoist, Google Calendar, Drive). Don't build new systems when one exists; she over-engineers systems instead of using them.
 - Never claim an action or integration worked without confirmation.
 - Boredom/restlessness: suggest a change of scenery, a creative outlet, or rest; not more work.

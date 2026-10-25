@@ -1,0 +1,16 @@
+{
+  "updated": "2026-10-25",
+  "targets": { "postsPerWeek": 7, "demosPerWeek": 1, "streamsPerWeek": 1 },
+  "shipped": [],
+  "inProgress": [],
+  "readyToShoot": [],
+  "backlog": [
+    { "idea": "KATSEYE / KPop Demon Hunters Halloween transformation + dance (15-20s)", "platform": "TikTok/Shorts/Reels", "postBy": "2026-10-31", "originality": "medium; strong fit for audience" }
+  ],
+  "decisions": [
+    { "q": "Channel plan: is KarenReacts the artist home, or do I launch a fresh artist channel?", "status": "open" },
+    { "q": "New TikTok handle", "status": "open" }
+  ],
+  "parked": [ { "idea": "Automated hair-braiding device", "note": "interesting, not an active project" } ],
+  "connectors": { "connected": ["Calendar","Gmail","Todoist","Drive","Docs","Sheets","Notion","vidIQ (free, 150 credits)","TubeAlfred","Descript","OpusClip","Canva","Adobe","Alama Wardrobe"], "missing": ["Metricool","Restream","Spotify (incomplete)"] }
+}
