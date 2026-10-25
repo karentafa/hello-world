@@ -4,7 +4,7 @@
 > Items marked TODO are still unknown. Don't guess them; ask.
 
 ## Who I am
-- Name: Karen Tafa (search "Karen Tafa" for channels and music). Handles: TODO
+- Name: Karen Tafa, 29, from Botswana, based in LA. Care Bears is her community nickname. Full background in brand/memory.md. TikTok/IG handles: TODO
 - Location: Los Angeles, US. Language: English.
 - Vision: become a **pop star who sings, dances and acts, and is followed for her personality.**
 - Everything I post should blend into one story: "she's an artist." Fashion, vlogs, fitness, streams and reactions are all chapters of the artist, not separate niches.
@@ -23,7 +23,7 @@
 | YouTube | KarenReacts (@KarenReacts) | ~44,300 | Audience came for reactions; some fans like her for her. Dormant/lost trust from inconsistency. Used to live stream here. |
 | YouTube | Karen Tafa Two (@karentafatwo) | ~1,150 | Vlogs only |
 | YouTube | Karen Tafa (@KarenTafa) | ~4,420 | Unused for years, old vlogs |
-| TikTok | TODO | ~15K | Views swing wildly (200 to much more) |
+| TikTok | old account TODO; **new TikTok being relaunched (Oct 2026)** | old ~15K | Views swing wildly (200 to much more) |
 | Instagram | TODO | ~9K | Dormant, followers from an earlier popular period |
 | Twitch | TODO | TODO | Not started |
 - Top platform: undecided. Working hypothesis, to be tested with data: the 42K channel is the home base and gets transitioned gradually from reactions to artist-personality content; the 4K channel becomes a daily clips channel; Karen Tafa 2 is kept for vlogs/live or merged. Don't split effort three ways before consistency exists.
