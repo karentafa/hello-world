@@ -20,9 +20,9 @@
 ## Platforms (as of 2026-10-25)
 | Platform | Account | Followers | Notes |
 |---|---|---|---|
-| YouTube | main reaction channel | ~42,000 | Audience came for reactions; some fans like her for her. Dormant/lost trust from inconsistency. Used to live stream here. |
-| YouTube | Karen Tafa 2 | ~1,000 | Vlogs only |
-| YouTube | Karen Tafa | ~4,000 | Unused for years, old vlogs |
+| YouTube | KarenReacts (@KarenReacts) | ~44,300 | Audience came for reactions; some fans like her for her. Dormant/lost trust from inconsistency. Used to live stream here. |
+| YouTube | Karen Tafa Two (@karentafatwo) | ~1,150 | Vlogs only |
+| YouTube | Karen Tafa (@KarenTafa) | ~4,420 | Unused for years, old vlogs |
 | TikTok | TODO | ~15K | Views swing wildly (200 to much more) |
 | Instagram | TODO | ~9K | Dormant, followers from an earlier popular period |
 | Twitch | TODO | TODO | Not started |
